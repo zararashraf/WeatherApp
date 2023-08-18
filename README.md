@@ -21,7 +21,7 @@ This project demonstrates how to fetch weather data from the OpenWeatherMap API 
 4. Run the script: `python main.py`
 
 ## Screenshots
-(Optional: If you have any screenshots or visual representations of your project, you can include them here.)
+- NA
 
 ## Credits
 - OpenWeatherMap API: https://openweathermap.org/api
